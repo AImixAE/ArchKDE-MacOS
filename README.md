@@ -1,5 +1,6 @@
 # ArchKDE-MacOS
-一个美化Arch for KDE的一个小程序
+
+一个美化 Arch for KDE 的一个小程序
 
 ## Init
 
@@ -9,4 +10,3 @@ cd ArchKDE-MacOS
 chmod +x ./init.sh
 ./init.sh
 ```
-
