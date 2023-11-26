@@ -10,3 +10,23 @@ cd ArchKDE-MacOS
 chmod +x ./init.sh
 ./init.sh
 ```
+
+## Install
+
+```sh
+./install.sh
+#or
+./install.sh -i all
+#or
+./install.sh --inst all
+```
+
+## UnInstall
+
+```sh
+./install.sh
+#or
+./install.sh -u all
+#or
+./install.sh --uninst all
+```

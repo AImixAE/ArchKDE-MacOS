@@ -1,0 +1,12 @@
+Arch KDE - MacOS
+Usage: ./install.sh [选项]
+Command               Args          Info
+--help ,  -h                        Print Help Doc
+--inst ,  -i          <all>         Inst themes
+                      <theme>       Inst theme
+                      <icon>        Inst icon
+                      <cursor>      Inst cursor
+--uninst ,  -u        <all>         Uninst themes
+                      <theme>       Uninst theme
+                      <icon>        Uninst icon
+                      <cursor>      Uninst cursor
