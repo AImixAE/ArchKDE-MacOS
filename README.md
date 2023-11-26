@@ -2,6 +2,10 @@
 
 一个美化 Arch for KDE 的一个小程序
 
+![desk1](desk1.png)
+
+![desk2](desk2.png)
+
 ## Init
 
 ```sh

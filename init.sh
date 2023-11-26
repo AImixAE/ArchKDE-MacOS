@@ -1,5 +1,6 @@
 sudo pacman -Sy
 sudo pacman -S --noconfirm --needed unzip
+sudo pacman -S --noconfirm --needed latte-dock
 
 unzip ./MacSonoma-kde.zip
 chmod +x ./MacSonoma-kde/install.sh
